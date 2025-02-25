@@ -1,6 +1,6 @@
 ### Olá mundo!!! eu sou o Matheus Sagas
 
-- 🔭 Estou trabalhando no momento como operador de máquinas
+- 🔭 Estou trabalhando no momento como Auditor de qualidade!
 - 🌱 Estou estudando HTML/5, CSS3, JS
 - 💬 contate-me no e-mail: matheus.asagas@hotmail.com
 - 😄 pronomes: Ele/Dele
