@@ -1,6 +1,6 @@
 ### Olá mundo!!! eu sou o Matheus Sagas
 
-- 🔭 Disponivél para novos projetos!
+- 🔭 Disponível para novos projetos!
 - 🌱 Estudando HTML/5, CSS3, JS
 - 💬 contate-me no e-mail: matheus.asagas@hotmail.com
 - 😄 pronomes: Ele/Dele
